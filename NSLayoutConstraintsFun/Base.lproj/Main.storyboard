@@ -48,7 +48,9 @@
                     <navigationItem key="navigationItem" id="Pu5-Oi-0do"/>
                     <connections>
                         <outlet property="leftView" destination="0iS-4l-Eir" id="Hei-Ed-qFN"/>
+                        <outlet property="leftViewWidthConstraint" destination="zcQ-dM-iS2" id="iNm-h1-gv4"/>
                         <outlet property="rightView" destination="2iC-OU-YRV" id="Wlc-74-Hmu"/>
+                        <outlet property="rightViewWidthConstraint" destination="Fgo-Pj-sBi" id="zib-Ow-urm"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

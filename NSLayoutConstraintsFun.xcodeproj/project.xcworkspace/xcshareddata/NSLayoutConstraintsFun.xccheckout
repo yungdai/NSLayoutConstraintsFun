@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C4D88E6-ECD6-4FA2-BE2E-38D2076D1CC8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NSLayoutConstraintsFun</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B5117B25974D1AACB879961012DB60F82736FFA0</key>
+		<string>https://github.com/yungdai/NSLayoutConstraintsFun.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NSLayoutConstraintsFun.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B5117B25974D1AACB879961012DB60F82736FFA0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yungdai/NSLayoutConstraintsFun.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B5117B25974D1AACB879961012DB60F82736FFA0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B5117B25974D1AACB879961012DB60F82736FFA0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NSLayoutConstraintsFun</string>
+		</dict>
+	</array>
+</dict>
+</plist>
